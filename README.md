@@ -1,2 +1,2 @@
 # project_euler
-Completeed problems from projecteuler.net
+Completed problems from projecteuler.net
